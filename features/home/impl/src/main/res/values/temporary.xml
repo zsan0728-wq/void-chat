@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screen_private_home_messages">MESSAGES</string>
+    <string name="screen_private_home_contacts">CONTACTS</string>
+    <string name="screen_private_home_profile">PROFILE</string>
+    <string name="screen_private_home_contacts_source">People from your direct conversations</string>
+    <string name="screen_private_home_contacts_empty">Start a conversation to add someone here.</string>
+    <string name="screen_private_home_edit_profile">Edit profile and settings</string>
+    <string name="screen_private_home_open_avatar">Expand profile photo</string>
+    <string name="screen_private_home_close_avatar">Close profile photo</string>
+    <string name="screen_private_home_unread">%1$d unread messages</string>
+    <string name="screen_private_home_journal">MY JOURNAL</string>
+    <string name="screen_private_home_journal_description">A private encrypted room for text and photos. Manage who can read your journal in room settings.</string>
+    <string name="screen_private_home_open_journal">Open journal</string>
+    <string name="screen_private_home_reset_journal">Reset journal</string>
+    <string name="screen_private_home_journal_error">Could not open your journal. An existing journal must still be joined and encrypted.</string>
+    <string name="screen_private_home_journal_error_syncing">Your journal is still syncing. Check your connection and wait for the sync to finish, then it will open automatically.</string>
+    <string name="screen_private_filter_all">All messages</string>
+    <string name="screen_private_filter_current">Filter messages: %1$s</string>
+</resources>

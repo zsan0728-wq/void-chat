@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screen_room_wallpaper">Chat background</string>
+    <string name="screen_room_wallpaper_title">Chat Background</string>
+    <string name="screen_room_wallpaper_choose">Choose from Gallery</string>
+    <string name="screen_room_wallpaper_reset">Use Default</string>
+    <string name="screen_room_wallpaper_access_failed">This image could not be kept as a background. Choose another image.</string>
+    <string name="screen_room_wallpaper_preset_concrete">Concrete</string>
+    <string name="screen_room_wallpaper_preset_mountain">Mountain</string>
+    <string name="screen_room_wallpaper_preset_fog">Fog</string>
+    <string name="screen_room_bubble_colors_title">Bubble colours</string>
+    <string name="screen_room_bubble_colors_outgoing">Outgoing</string>
+    <string name="screen_room_bubble_colors_incoming">Incoming</string>
+    <string name="screen_room_bubble_colors_default">Default</string>
+</resources>

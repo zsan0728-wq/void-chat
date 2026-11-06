@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screen_glasslab_title">GLASS LAB</string>
+    <string name="screen_glasslab_theme">Theme</string>
+    <string name="screen_glasslab_density">20 visible</string>
+    <string name="screen_glasslab_animate">Moving wall</string>
+    <string name="screen_glasslab_receive">Receive</string>
+    <string name="screen_glasslab_send">Send</string>
+    <string name="screen_glasslab_message">Message</string>
+    <string name="screen_glasslab_copy">Copy</string>
+    <string name="screen_glasslab_reply">Reply</string>
+    <string name="screen_glasslab_delete">Delete</string>
+    <string name="screen_glasslab_reply_to">Reply to message %1$d</string>
+    <string name="screen_glasslab_fixture">Message %1$d. The project file is ready.</string>
+    <string name="screen_glasslab_long_fixture">Message %1$d. Architecture is the considered balance of light, space and structure. This longer fixture checks wrapping, independently changing bubble bounds, foreground readability, and the continuity of the glass edge while scrolling.</string>
+    <string name="screen_glasslab_compact_fixture">%1$d · LIGHT / SPACE</string>
+    <string name="screen_glasslab_received">A new incoming message.</string>
+    <string name="screen_glasslab_photo_description">Photo message: landscape</string>
+</resources>
